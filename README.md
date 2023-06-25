@@ -23,6 +23,7 @@ This project integrates ChatEngine, an npm package, to simplify building chat fu
 - Chatroom Management: Create and manage chatrooms for users to join and interact.
 - User Presence: Track and display user presence status in the chat application.
 - Customization and UI Design: Explore customization options for styling the chat application.
+- [Project link]([https://www.openai.com/](https://super-cuchufli-f07403.netlify.app/))
 
 Through this project, you will gain hands-on experience building a real-time chat application using React.js and learn important concepts to strengthen your understanding of React's functionality.
 ![Screenshot from 2023-06-26 01-45-05](https://github.com/NikhilBabhulkar/Chat_Application/assets/87929600/93846e1e-6ea8-4a68-ab71-54bbf89338b2)
