@@ -25,9 +25,10 @@ This project integrates ChatEngine, an npm package, to simplify building chat fu
 - Customization and UI Design: Explore customization options for styling the chat application.
 
 Through this project, you will gain hands-on experience building a real-time chat application using React.js and learn important concepts Thank You...
-Credentials -
-username - Rahul mehta password - rahul
-username - Neha sharma password - neha
+#### Credentials -
+
+username - Rahul mehta password - rahul.
+username - Neha sharma password - neha.
 
 ![Screenshot from 2023-06-26 01-45-05](https://github.com/NikhilBabhulkar/Chat_Application/assets/87929600/93846e1e-6ea8-4a68-ab71-54bbf89338b2)
 ![Screenshot from 2023-06-26 01-49-20](https://github.com/NikhilBabhulkar/Chat_Application/assets/87929600/9b76b45d-e702-4a06-8d6d-34cab3b7bdee)
